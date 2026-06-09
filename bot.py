@@ -25,7 +25,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.8809093169:AAGAgYGALY48AaChT07oxXwGlwXM4oqSoXU0.0",
     "Referer": "https://www.bilimclass.kz/",
     "Accept": "application/json",
-
+}
 
 # База данных
 def init_db():
