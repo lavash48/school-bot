@@ -12,7 +12,7 @@ import pytz
 import requests
 import sqlite3
 
-TOKEN = "8809093169:AAFOcHSIy3icMqEMb7lC7lyH6mOLbpwiqxs"
+TOKEN = "8809093169:AAGAgYGALY48AaChT07oxXwGlwXM4oqSoXU"
 KZ_TZ = pytz.timezone("Asia/Almaty")
 
 COOKIES = {
@@ -22,10 +22,10 @@ COOKIES = {
 }
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.8809093169:AAGAgYGALY48AaChT07oxXwGlwXM4oqSoXU0.0",
     "Referer": "https://www.bilimclass.kz/",
     "Accept": "application/json",
-}
+
 
 # База данных
 def init_db():
